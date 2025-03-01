@@ -1,0 +1,21 @@
+[
+    {
+        "username": "DK189", 
+        "password": "Vidya1",
+        "expected": "Invalid Username/Password"
+        
+    },
+    {
+        "username": "DK1896", 
+        "password": "Vidya",
+        "expected": "Invalid Username/Password"
+        
+    },
+    {
+        "username": "DK1896", 
+        "password": "YYYY",
+        "expected": "Home"
+        
+    }
+
+]

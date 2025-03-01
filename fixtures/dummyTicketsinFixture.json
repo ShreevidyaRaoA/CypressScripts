@@ -1,0 +1,15 @@
+{
+    "expected": "Dummy ticket booking",
+    "firstname": "Shree",
+    "lastname": "Vidya",
+    "travelcity": "Prayag",
+    "traveldestrict": "UP",
+    "departureDate": "23/2/2025",
+    "returnDate": "28/2/2025",
+    "phone": "8998877998",
+    "email": "shreevidya@qaoncloud.com",
+    "streetAddress": "44-8,Kaup",
+    "billingCity": "Udupi",
+    "pinCode": "576101"
+
+}
